@@ -74,6 +74,5 @@ This would open the following user interface:
   <img src="./img/ui-view3.png" alt="ui-view3">
 </div>
 
-## Project UI Demo
 
-You can find the demo video [here on youtube](https://www.youtube.com/watch?v=bO4bvjYyvQE).
+

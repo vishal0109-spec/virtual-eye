@@ -1,0 +1,11 @@
+.ipynb_checkpoints/*
+__pycache__/
+models.zip
+output_logs_*
+*.pth.tar
+.idea/*
+png/*
+.DS_Store/*
+.DS_Store
+ui/cam_images/*
+ui/*.ui
